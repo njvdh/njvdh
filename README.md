@@ -2,7 +2,8 @@
 
 **Infrastructure Architect & Automation Tinkerer**
 
-Passionate about Linux, virtualization, and building robust CLI tools to keep the network humming. I believe if you have to do it twice, it should be a script.
+Passionate about Linux, virtualization, and building robust CLI tools to keep the network humming.
+I believe if you have to do it twice, it should be a script.
 
 ---
 
