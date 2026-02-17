@@ -10,9 +10,9 @@ Passionate about Linux, virtualization, and building robust CLI tools to keep th
 
 | Project | Description |
 | :--- | :--- |
+| **[bph](https://github.com/njvdh/bph)** | Essential setup for preserving Bash history across concurrent sessions. |
 | **[it-scan](https://github.com/njvdh/it-scan)** | Minimalist infrastructure scanner for Linux (Proxmox/Incus) and Ruckus Wireless. |
 | **[sysma](https://github.com/njvdh/sysma)** | One-click maintenance tool for APT, Incus, and Proxmox nodes. |
-| **[bph](https://github.com/njvdh/bph)** | Essential setup for preserving Bash history across concurrent sessions. |
 
 ---
 
