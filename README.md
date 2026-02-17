@@ -5,6 +5,11 @@ containers, and networking gear using custom Bash tooling.
 
 ## 🛠️ Featured Projects
 
+### [Bash-persistent-history](https://github.com/njvdh/Bash-persistent-history)
+Never lose a command again. A robust setup to ensure Bash history is preserved across sessions and containers.
+- **Persistent:** Saves history immediately, even in multiple concurrent sessions.
+- **Searchable:** Optimized for quick retrieval of complex one-liners.
+
 ### [it-scan](https://github.com/njvdh/it-scan)
 A minimalist infrastructure scanner for Linux (Proxmox, Incus) and Ruckus Wireless networks.
 - **SSH-based** remote inventory.
