@@ -29,8 +29,8 @@ I believe if you have to do it twice, it should be a script.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=njvdh&show_icons=true&theme=radical&hide_border=true" alt="Nico's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njvdh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=njvdh&show_icons=true&theme=radical&hide_border=true&count_private=true&v=refresh" alt="Nico's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njvdh&layout=compact&theme=radical&hide_border=true&v=refresh" alt="Top Languages" height="150" />
 </p>
 
 ---
